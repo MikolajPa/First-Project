@@ -1,0 +1,11 @@
+﻿  Points.cpp
+c:\programowanie\pierwszysfml\pierwszysfml\points.h(2): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  main.cpp
+c:\programowanie\pierwszysfml\pierwszysfml\points.h(2): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+c:\programowanie\pierwszysfml\pierwszysfml\main.cpp(67): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Trwa generowanie kodu
+  5 of 590 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    32 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  pierwszysfml.vcxproj -> C:\programowanie\pierwszysfml\Release\pierwszysfml.exe
